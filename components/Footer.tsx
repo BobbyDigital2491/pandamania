@@ -4,7 +4,7 @@ export default function Footer() {
   return (
     <>
       <div className=" pt-4 sm:pt-10 lg:pt-12">
-        <h1 className="text-[60px] px-10">Pandamania</h1>
+        
 
         <footer className="max-w-screen-2xl px-4 md:px-8 mx-auto">
           <div className="flex flex-col md:flex-row justify-between items-center border-t border-b gap-4 py-6">
