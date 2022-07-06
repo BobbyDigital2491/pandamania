@@ -17,7 +17,7 @@ const navData = [
     href: "#work",
   },
   {
-    name: "FAQ",
+    name: "Team",
     href: "#contact",
   },
 ];
