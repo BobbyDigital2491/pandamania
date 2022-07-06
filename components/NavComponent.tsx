@@ -46,7 +46,7 @@ export default function NavComponent() {
             <div className="flex justify-start lg:w-0 lg:flex-1">
               <Link href="#home">
                 <h1 className="flex flex-col">
-                  Music <span>NFT Platform</span>
+                  Pandamania X <span>Hashmoingo's</span>
                 </h1>
               </Link>
             </div>
