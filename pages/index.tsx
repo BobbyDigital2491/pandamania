@@ -14,7 +14,7 @@ const NftCard = () => {
         <img src="/Rectangle9.png" />
       </div>
       <div className="px-6 -mt-4">
-        <h1 className="text-2xl">Heart & Sol</h1>
+        <h1 className="text-2xl">Pandamania</h1>
         <div className="flex justify-between w-full mb-4 mt-2 px-3">
           <div className="flex items-center  text-xl">
             <svg
