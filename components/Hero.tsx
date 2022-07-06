@@ -5,11 +5,11 @@ export default function Hero() {
       <div className="flex  w-full flex-wrap xl:flex-nowrap container mx-auto  justify-between  py-[2rem] z-50 ">
         <div className="flex sm:mt-10 flex-col    text-left px-2   ">
           <h1 className="text-[55px] sm:text-[80px] font-bold leading-none ">
-            Music for NFT creators.
+            Pandamania.
           </h1>
 
           <h1 className="text-4xl font-semibold flex flex-col my-4 ">
-            Digital Music for fans.
+            Created By Sokoni.
           </h1>
           <p className="max-w-lg ">
             Music NFTs will continue to revolutionize the way that artists and
