@@ -12,7 +12,7 @@ export default function Hero() {
             Created By Sokoni.
           </h1>
           <p className="max-w-lg ">
-           ou have now entered Pandamania, there is no turning back now. We the "Pandamanians" have one goal, and that is to bring justice 
+           You have now entered Pandamania, there is no turning back now. We the "Pandamanians" have one goal, and that is to bring justice 
             to the Hedera community. You may have rights, but is it Panda Syndicates rights? Do you breathe every breath for this moment? Are you 
             excited as we are to lay down the law, and bring order? We are the Pandamania collections. Our goal is to bring high quality, fun, 
             collectibles, and one of a kind NFTs to the community. With each series we will unlock the door to new possibilities, growth, and benefits 
