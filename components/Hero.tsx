@@ -12,10 +12,11 @@ export default function Hero() {
             Created By Sokoni.
           </h1>
           <p className="max-w-lg ">
-            Music NFTs will continue to revolutionize the way that artists and
-            fans create community together as we enter the upcoming year —
-            undoubtedly changing the trajectory of countless budding music
-            careers.{" "}
+           ou have now entered Pandamania, there is no turning back now. We the "Pandamanians" have one goal, and that is to bring justice 
+            to the Hedera community. You may have rights, but is it Panda Syndicates rights? Do you breathe every breath for this moment? Are you 
+            excited as we are to lay down the law, and bring order? We are the Pandamania collections. Our goal is to bring high quality, fun, 
+            collectibles, and one of a kind NFTs to the community. With each series we will unlock the door to new possibilities, growth, and benefits 
+            to our holders as we go along. As the project grows we will continue to keep all matters transparent as possible with our collectors.{" "}
           </p>
           <div className="flex  items-center sm:justify-center mt-10 sm:m-0 lg:justify-start ">
             <>
