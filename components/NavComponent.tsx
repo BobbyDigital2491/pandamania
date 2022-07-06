@@ -13,7 +13,7 @@ const navData = [
     href: "#about",
   },
   {
-    name: "Resources",
+    name: "Whitepaper",
     href: "#work",
   },
   {
