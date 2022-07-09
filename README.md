@@ -2,6 +2,9 @@
 <h1 align="center">
   Pandamania.nft Website 
 </h1>
-###  Built with Next.js
+![pb](https://user-images.githubusercontent.com/100319461/175304401-60ad3547-5159-4fbe-bf94-7cdc93dce181.png)
+
+
+##Built with Next.js
 
 
