@@ -36,7 +36,11 @@ export default function Hero() {
           </div>
         </div>
         <div className="h-[4 relative xl:fit xl:top-16 right-0">
+<<<<<<< HEAD
           
+=======
+          <img src="noBg.png" className="object-fit h-full" />
+>>>>>>> 63f3fe5acdc418aadce38bdb98eff8f7645fadfc
         </div>
       </div>
     </div>
