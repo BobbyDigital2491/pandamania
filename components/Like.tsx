@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Zero() {
+export default function Like() {
   return (
     <div className="min-h-screen sm:my-20 ">
       <div className="flex  w-full flex-wrap xl:flex-nowrap container mx-auto  justify-between  py-[2rem] z-50 ">
@@ -8,6 +8,7 @@ export default function Zero() {
           <h1 className="text-[55px] sm:text-[80px] font-bold leading-none ">
             About.
           </h1>
+          <br/>
           <p className="max-w-lg ">
            You have now entered Pandamania, there is no turning back now. We the "Pandamanians" have one goal, and that is to bring justice 
             to the Hedera community. You may have rights, but is it Panda Syndicates rights? Do you breathe every breath for this moment? Are you 

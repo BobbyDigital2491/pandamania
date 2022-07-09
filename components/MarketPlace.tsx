@@ -34,10 +34,6 @@ export default function MarketPlace() {
               <p className="">
               We are stout supporters of the Hedera network for several reasons. Reasons include the nominal fees associated with the minting and transferring of NFTs, speed of token transfers, security of the network and more. They allow NFTs to become more accessible to a broader audience. The Hedera community’s love and support is unmatched. Panda Syndicates originally started on ETH before two Hbarbarians got the artist to see the wonders of the Hedera community.
               </p>
-
-              <button className="px-6 py-3  border-2 ml-10 flex items-center  sm:text-lg font-bold rounded-3xl glass transition-colors duration-500 text-white ">
-                Visit Hedera <img src="arrow.svg" className="pl-2" /> <link href="https://hedera.com/"></link>
-              </button>
             </div>
           </div>
         </div>
