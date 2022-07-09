@@ -14,11 +14,7 @@ const navData = [
   },
   {
     name: "Team",
-<<<<<<< HEAD
     href: "/team",
-=======
-    href: "#team",
->>>>>>> 63f3fe5acdc418aadce38bdb98eff8f7645fadfc
   },
   {
     name: "Contact",
@@ -48,11 +44,7 @@ export default function NavComponent() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 ">
           <div className="flex justify-between items-center   py-6 sm:justify-between sm:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
-<<<<<<< HEAD
               <Link href="/home">
-=======
-              <Link href="#home">
->>>>>>> 63f3fe5acdc418aadce38bdb98eff8f7645fadfc
                 <img src="panda3.png" width='60'/>
               </Link>
             </div>
