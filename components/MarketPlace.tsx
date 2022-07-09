@@ -11,18 +11,18 @@ export default function MarketPlace() {
               <div className="grid md:grid-cols-2">
                 <div className="grid content-center ml-[3vw] relative -mt-[10rem]">
                   <div className="py-10">
-                    <NftCard image="top1.png" />
+                    <NftCard image="pan32.png" />
                   </div>
                   <div className="py-10">
-                    <NftCard image="top2.png" />
+                    <NftCard image="cel.jpg" />
                   </div>
                 </div>
                 <div className="grid content-center ">
                   <div className="py-10">
-                    <NftCard image="top3.png" />
+                    <NftCard image="lazy.jpg" />
                   </div>
                   <div className="py-10">
-                    <NftCard image="top4.png" />
+                    <NftCard image="gold.jpeg" />
                   </div>
                 </div>
               </div>
@@ -32,15 +32,11 @@ export default function MarketPlace() {
                 Built on Hedera
               </h2>
               <p className="">
-                Create your first music NFTs with NFT market for musicians.
-                Create music and music videos just under the $1, the platform
-                works with BSC blockchain and supports mp4. With AirNFTs, you
-                are getting the control over your NFTs, no middle man cutting
-                your sales. Create, Buy, Sell and Earn with your music NFTs.
+              We are stout supporters of the Hedera network for several reasons. Reasons include the nominal fees associated with the minting and transferring of NFTs, speed of token transfers, security of the network and more. They allow NFTs to become more accessible to a broader audience. The Hedera community’s love and support is unmatched. Panda Syndicates originally started on ETH before two Hbarbarians got the artist to see the wonders of the Hedera community.
               </p>
 
               <button className="px-6 py-3  border-2 ml-10 flex items-center  sm:text-lg font-bold rounded-3xl glass transition-colors duration-500 text-white ">
-                Explore Marketplace <img src="arrow.svg" className="pl-2" />
+                Visit Hedera <img src="arrow.svg" className="pl-2" /> <link href="https://hedera.com/"></link>
               </button>
             </div>
           </div>

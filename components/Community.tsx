@@ -4,17 +4,17 @@ const data = [
   {
     title: "01/",
     description:
-      "Artists themselves become a platform. NFTs allow artistes, especially upcoming ones, to create an ecosystem that allows genuine fans to buy into their market.",
+      "Stay consistent and never get uncomfortable. Build when everyone is asleep. Never be afraid to adapt to change when needed.",
   },
   {
     title: "02/",
     description:
-      "NFT gives all the power to creators. Anyone upcoming artiste can do their stuff on-chain, making them more independent and freeing them from unfavorable deals from record labels. ",
+      "Full transparancy and community engagement when developing and deploying new projects. ",
   },
   {
     title: "03/",
     description:
-      "A positive NFT-fueled change in the music market can upstage crypto adoption at large.",
+      "Full community engagement complete with raffles, giveaways and airdrops .",
   },
 ];
 
@@ -26,7 +26,7 @@ export default function Community() {
       </div>
       <div className="flex flex-col container mx-auto">
         <h1 className="text-5xl sm:text-[80px] flex flex-col ">
-          Engage your <span> Fans with community</span>{" "}
+          Community <span>Engagement</span>{" "}
         </h1>
         <div className="flex flex-wrap   justify-center  items-center">
           {data.map((n, index) => {

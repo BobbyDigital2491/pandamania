@@ -5,19 +5,19 @@ import Link from "next/link";
 
 const navData = [
   {
-    name: "Marketplace",
-    href: "#home",
-  },
-  {
     name: "About",
-    href: "#about",
+    href: "/about",
   },
   {
     name: "Whitepaper",
-    href: "#work",
+    href: "https://panda-six-flame.vercel.app/",
   },
   {
     name: "Team",
+    href: "/team",
+  },
+  {
+    name: "Contact",
     href: "#contact",
   },
 ];
@@ -44,10 +44,8 @@ export default function NavComponent() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 ">
           <div className="flex justify-between items-center   py-6 sm:justify-between sm:space-x-10">
             <div className="flex justify-start lg:w-0 lg:flex-1">
-              <Link href="#home">
-                <h1 className="flex flex-col">
-                  Pandamania 
-                </h1>
+              <Link href="/home">
+                <img src="panda3.png" width='60'/>
               </Link>
             </div>
             <div className="-mr-2 -my-2 sm:hidden">

@@ -10,22 +10,22 @@ export default function Footer() {
           <div className="flex flex-col md:flex-row justify-between items-center border-t border-b gap-4 py-6">
             <nav className="flex flex-wrap justify-center md:justify-start gap-x-4 gap-y-2 md:gap-6">
               <a
-                href="#"
-                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
-              >
-                Facebook
-              </a>
-              <a
-                href="#"
-                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
-              >
-                Twitter
-              </a>
-              <a
-                href="#"
+                href="https://discord.com/invite/vkMctx3PEd"
                 className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
               >
                 Discord
+              </a>
+              <a
+                href="https://twitter.com/syndicatespanda"
+                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+              >
+                Pandamania Twitter
+              </a>
+              <a
+                href="https://twitter.com/HMingos"
+                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+              >
+                Hashmnigo Twitter
               </a>
               <a
                 href="#"

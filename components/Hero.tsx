@@ -1,39 +1,42 @@
+import Link from "next/link";
 
 export default function Hero() {
   return (
     <div className="min-h-screen sm:my-20 ">
       <div className="flex  w-full flex-wrap xl:flex-nowrap container mx-auto  justify-between  py-[2rem] z-50 ">
-        <div className="flex sm:mt-10 flex-col    text-left px-2   ">
-          <h1 className="text-[55px] sm:text-[80px] font-bold leading-none ">
-            Pandamania.
-          </h1>
-
-          <h1 className="text-4xl font-semibold flex flex-col my-4 ">
-            Created By Sokoni.
-          </h1>
-          <p className="max-w-lg ">
-           You have now entered Pandamania, there is no turning back now. We the "Pandamanians" have one goal, and that is to bring justice 
-            to the Hedera community. You may have rights, but is it Panda Syndicates rights? Do you breathe every breath for this moment? Are you 
-            excited as we are to lay down the law, and bring order? We are the Pandamania collections. Our goal is to bring high quality, fun, 
-            collectibles, and one of a kind NFTs to the community. With each series we will unlock the door to new possibilities, growth, and benefits 
-            to our holders as we go along. As the project grows we will continue to keep all matters transparent as possible with our collectors.{" "}
+        <div className="flex sm:mt-8 flex-col  text-left px-2   ">
+          <img src="cover.png" className="object-fit h-full object-top" />
+          <h1 className="text-5xl sm:text-[80px]">Mission Statement</h1>
+          <br/>
+          <p className="max-w-lg text-xl ">
+           The mission of this project is to promote quality art at an affordable
+          price without straying away from the utilities and benefits of our
+          holders. We will stay committed to bringing value to the project, by
+          focusing on the short and long term goals. Preparing ourselves for
+          long term stability with each short term success one step at a time.
+          Pandamania’s collection consists of multiple projects that share the
+          same common goal. These projects work as a bridge for each other as
+          one focus on community development the other focus on project
+          development. Allowing us to build in both areas effectively and set up
+          a support even throughout a bear market. If conditions change, then
+          the project adapts to the change and continue moving forward.{" "}
           </p>
           <div className="flex  items-center sm:justify-center mt-10 sm:m-0 lg:justify-start ">
             <>
-              <button className=" flex flex-col justify-start ml-5  text-lg font-bold rounded  text-white ">
-                Powered By
-                <img src="logo-black1.png" />
+              <button  className=" flex flex-col border-2 justify-start ml-5  text-lg font-bold rounded  text-white ">
+                <link href='https://hedera.com/'/>
+                <img src="hlogo.png" width='100'  />
               </button>
             </>
             <>
-              <button className="px-6 py-3  border-2 ml-10 flex items-center  sm:text-lg font-bold rounded-3xl glass transition-colors duration-500 text-white ">
+              <button className="px-6 py-3  border-2 -translate-y+10 ml-8 my-10 flex items-center  sm:text-lg font-bold rounded-3xl glass transition-colors duration-500 text-white ">
                 Discover More <img src="arrow.svg" className="pl-2" />
               </button>
             </>
           </div>
         </div>
-        <div className="h-[4 relative xl:absolute xl:top-16 right-0">
-          <img src="image5.png" className="object-fit h-full" />
+        <div className="h-[4 relative xl:fit xl:top-16 right-0">
+          
         </div>
       </div>
     </div>

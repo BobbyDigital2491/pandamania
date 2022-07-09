@@ -3,34 +3,40 @@ import { NftCardWithButton } from "./NftCard";
 
 const data = [
   {
-    image: "1.png",
+    image: "black.png",
   },
   {
-    image: "2.png",
+    image: "cyborg.png",
   },
   {
-    image: "3.png",
+    image: "yellow.png",
   },
   {
-    image: "4.png",
+    image: "ruby.png",
   },
   {
-    image: "5.png",
+    image: "mingo.png",
   },
   {
-    image: "six.png",
+    image: "mingg.png",
   },
   {
-    image: "7.png",
+    image: "mingz.png",
   },
   {
-    image: "8.png",
+    image: "purp.png",
   },
   {
-    image: "9.png",
+    image: "ruby.png",
   },
   {
-    image: "10.png",
+    image: "last.png",
+  },
+  {
+    image: "graff.png",
+  },
+  {
+    image: "triple.png",
   },
 
 ];

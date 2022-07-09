@@ -3,9 +3,10 @@ import AboutSection from "../components/AboutSection";
 import Community from "../components/Community";
 import Discover from "../components/Discover";
 import Footer from "../components/Footer";
-import Hero from "../components/Hero";
+import Like from "../components/Like";
 import MarketPlace from "../components/MarketPlace";
 import NavComponent from "../components/NavComponent";
+
 
 const NftCard = () => {
   return (
@@ -31,7 +32,7 @@ const NftCard = () => {
                 fill="white"
               />
             </svg>
-            <h1 className="pl-2 ">0.3234</h1>
+            <h1 className="pl-2 ">10000 HBAR</h1>
           </div>
           <h1 className="text-xl">16 tokens</h1>
         </div>
@@ -66,7 +67,7 @@ const NftCard = () => {
   );
 };
 
-export default function index() {
+export default function about() {
   return (
     <>
       <div className="relative ">
@@ -76,11 +77,9 @@ export default function index() {
       </div>
 
       <NavComponent />
-      <Hero />
-      <AboutSection />
-      <MarketPlace />
-      <Community />
-      <Discover />
+      
+      <Like/>
+      
       <Footer />
     </>
   );
