@@ -25,8 +25,7 @@ export default function Hero() {
             <>
               <button  className=" flex flex-col border-2 justify-start ml-5  text-lg font-bold rounded  text-white ">
                 <link href='https://hedera.com/'/>
-                <img src="hlogo.png" width='50' height='50' />
-                <br/>
+                
               </button>
             </>
             <>
