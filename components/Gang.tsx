@@ -34,7 +34,10 @@ export default function Gang() {
               Team
             </h2>
             <p className="">
-            We are stout supporters of the Hedera network for several reasons. Reasons include the nominal fees associated with the minting and transferring of NFTs, speed of token transfers, security of the network and more. They allow NFTs to become more accessible to a broader audience. The Hedera community’s love and support is unmatched. Panda Syndicates originally started on ETH before two Hbarbarians got the artist to see the wonders of the Hedera community.
+            We are stout supporters of the Hedera network for several reasons. 
+              Reasons include the nominal fees associated with the minting and transferring of NFTs, speed of token transfers, security of the network and more. 
+              They allow NFTs to become more accessible to a broader audience. The Hedera community’s love and support is unmatched. 
+              
             </p>
 
         
