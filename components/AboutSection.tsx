@@ -7,11 +7,10 @@ export default function AboutSection() {
         <div className="max-w-[608px]">
           <h1 className="text-5xl sm:text-[80px]">What is Pandamania?</h1>
           <p className="text-xl">
-            NFTs are unique assets stored and tradable on a blockchain. They
-            are, immutable, scarce and publicly verifiable. In the music world,
-            artistes get to sell limited digital content to their fans who pay
-            via crypto. You can now produce any music content that cannot be
-            counterfeited.
+            Pandamania is a collection of NFT projects that is set to bring change to the digital and real world. 
+            Providing value to the world around us and inspiring love and change for a better tomorrow. 
+            Bringing value to our NFT holders and allowing them to use us to make a difference in the world. 
+            We are love. We are hope. We are one. We are Pandamania.
           </p>
         </div>
         < >
