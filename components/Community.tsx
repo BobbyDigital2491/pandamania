@@ -14,7 +14,7 @@ const data = [
   {
     title: "03/",
     description:
-      "Full community engagement complete with raffles, giveaways and airdrops .",
+      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project .",
   },
 ];
 
