@@ -14,7 +14,7 @@ const data = [
   {
     title: "03/",
     description:
-      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project. .",
+      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project. ",
   },
 ];
 
