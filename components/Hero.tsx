@@ -23,10 +23,7 @@ export default function Hero() {
           </p>
           <div className="flex  items-center sm:justify-center mt-10 sm:m-0 lg:justify-start ">
             <>
-              <button  className=" flex flex-col border-2 justify-start ml-5  text-lg font-bold rounded  text-white ">
-                <link href='https://hedera.com/'/>
-                
-              </button>
+              
             </>
             <>
               <button className="px-6 py-3  border-2 -translate-y+10 ml-8 my-10 flex items-center  sm:text-lg font-bold rounded-3xl glass transition-colors duration-500 text-white ">
