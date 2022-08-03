@@ -14,7 +14,7 @@ const data = [
   {
     title: "03/",
     description:
-      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project. ",
+      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project .",
   },
 ];
 
@@ -25,7 +25,7 @@ export default function Community() {
         <img src="Ellipse18.svg" className="relative " />
       </div>
       <div className="flex flex-col container mx-auto">
-        <h1 className="text-5xl sm:text-[80px] flex flex-col ">
+        <h1 className="text-5xl sm:text-[80px] flex flex-col align-middle ">
           Community <span>Engagement</span>{" "}
         </h1>
         <div className="flex flex-wrap   justify-center  items-center">
@@ -42,3 +42,4 @@ export default function Community() {
     </div>
   );
 }
+
