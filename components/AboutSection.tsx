@@ -17,7 +17,7 @@ export default function AboutSection() {
         < >
         <img src="panda.png"  />
           <br/>
-          
+          <br/>
           <div className="absolute  -z-10 right-0   ">
             <img src="Ellipse21.svg" className="h-[60rem]" />
           </div>
