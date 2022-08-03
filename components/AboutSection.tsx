@@ -15,7 +15,7 @@ export default function AboutSection() {
           </p>
         </div>
         < >
-        <img src="panda.png" width='100' />
+        <img src="panda.png" width='150' />
           <br/>
           <br/>
           <div className="absolute  -z-10 right-0   ">
