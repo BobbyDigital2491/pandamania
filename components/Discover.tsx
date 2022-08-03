@@ -2,9 +2,6 @@ import React from "react";
 import { NftCardWithButton } from "./NftCard";
 
 const data = [
-  <br/>
-  <br/>
-  <br/>
   {
     image: "black.png",
   },
