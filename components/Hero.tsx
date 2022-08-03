@@ -27,7 +27,7 @@ export default function Hero() {
             </>
             <>
               <button className="px-6 py-3  border-2 -translate-y+10 ml-8 my-10 flex items-center  sm:text-lg font-bold rounded-3xl glass transition-colors duration-500 text-white ">
-                Discover More <img src="arrow.svg" className="pl-2" href='https://panda-six-flame.vercel.app/' />
+                Discover More <img src="arrow.svg" className="pl-2"  />
               </button>
             </>
           </div>
