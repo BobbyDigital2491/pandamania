@@ -31,6 +31,12 @@ export default function Footer() {
                 href="#"
                 className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
               >
+                Spatial
+              </a>
+              <a
+                href="#"
+                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+              >
                 Contact
               </a>
             </nav>
