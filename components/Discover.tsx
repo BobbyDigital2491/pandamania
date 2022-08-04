@@ -23,21 +23,6 @@ const data = [
   {
     image: "mingz.png",
   },
-  {
-    image: "purp.png",
-  },
-  {
-    image: "ruby.png",
-  },
-  {
-    image: "last.png",
-  },
-  {
-    image: "graff.png",
-  },
-  {
-    image: "triple.png",
-  },
 
 ];
 
