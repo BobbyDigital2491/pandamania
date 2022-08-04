@@ -18,6 +18,7 @@ export default function Like() {
             - (ALL ACCOMPLISHED)
             Q3 2022
             - Rebranding ✅
+            <br/>
             - Staking and MNGO airdrops ✅
             - Panda Syndicates relaunch ✅
             - Hashmingos relaunch ✅
