@@ -6,7 +6,7 @@ import Link from "next/link";
 const navData = [
   {
     name: "Roadmap",
-    href: "/about",
+    href: "/roadmap",
   },
   {
     name: "Whitepaper",
