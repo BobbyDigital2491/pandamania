@@ -10,11 +10,24 @@ export default function Like() {
           </h1>
           <br/>
           <p className="max-w-lg ">
-           You have now entered Pandamania, there is no turning back now. We the "Pandamanians" have one goal, and that is to bring justice 
-            to the Hedera community. You may have rights, but is it Panda Syndicates rights? Do you breathe every breath for this moment? Are you 
-            excited as we are to lay down the law, and bring order? We are the Pandamania collections. Our goal is to bring high quality, fun, 
-            collectibles, and one of a kind NFTs to the community. With each series we will unlock the door to new possibilities, growth, and benefits 
-            to our holders as we go along. As the project grows we will continue to keep all matters transparent as possible with our collectors.{" "}
+           Q4 2021 
+            - (ALL ACCOMPLISHED)
+            Q1 2022
+            - (ALL ACCOMPLISHED)
+            Q2 2022
+            - (ALL ACCOMPLISHED)
+            Q3 2022
+            - Rebranding ✅
+            - Staking and MNGO airdrops ✅
+            - Panda Syndicates relaunch ✅
+            - Hashmingos relaunch ✅
+            - Lady Mingos claim ✅
+            - $MNGO Wheel reconstruction into $MNGO Bust or Miss
+            - Burn 2000 Hashmingos (1600 currently)
+            - Hashmingos Burn to Enter Raffles
+            - $MNGO Discord Marketplace 
+            - Launch $MNGO Buyback Program
+            - Launch Mutant Pandas {" "}
           </p>
 
         </div>
