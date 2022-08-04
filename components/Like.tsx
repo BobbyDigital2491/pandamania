@@ -12,10 +12,13 @@ export default function Like() {
           <p className="max-w-lg ">
            Q4 2021 
             - (ALL ACCOMPLISHED)
+            <br/>
             Q1 2022
             - (ALL ACCOMPLISHED)
+            <br/>
             Q2 2022
             - (ALL ACCOMPLISHED)
+            <br/>
             Q3 2022
             - Rebranding ✅
             <br/><br/>
