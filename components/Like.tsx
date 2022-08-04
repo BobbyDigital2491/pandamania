@@ -18,20 +18,28 @@ export default function Like() {
             <br/>
             Q2 2022
             - (ALL ACCOMPLISHED)
-            <br/>
-            Q3 2022
-            - Rebranding ✅
             <br/><br/>
-            
+            Q3 2022<br/>
+            - Rebranding ✅
+            <br/>
             - Staking and MNGO airdrops ✅
+            <br/>
             - Panda Syndicates relaunch ✅
+            <br/>
             - Hashmingos relaunch ✅
+            <br/>
             - Lady Mingos claim ✅
+            <br/>
             - $MNGO Wheel reconstruction into $MNGO Bust or Miss
+            <br/>
             - Burn 2000 Hashmingos (1600 currently)
+            <br/>
             - Hashmingos Burn to Enter Raffles
+            <br/>
             - $MNGO Discord Marketplace 
+            <br/>
             - Launch $MNGO Buyback Program
+            <br/>
             - Launch Mutant Pandas {" "}
           </p>
 
