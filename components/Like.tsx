@@ -6,7 +6,7 @@ export default function Like() {
       <div className="flex  w-full flex-wrap xl:flex-nowrap container mx-auto  justify-between  py-[2rem] z-50 ">
         <div className="flex sm:mt-10 flex-col    text-left px-2   ">
           <h1 className="text-[55px] sm:text-[80px] font-bold leading-none ">
-            Roadmap.
+            Roadmap
           </h1>
           <br/>
           <p className="max-w-lg ">
@@ -18,7 +18,8 @@ export default function Like() {
             - (ALL ACCOMPLISHED)
             Q3 2022
             - Rebranding ✅
-            <br/>
+            <br/><br/>
+            
             - Staking and MNGO airdrops ✅
             - Panda Syndicates relaunch ✅
             - Hashmingos relaunch ✅
