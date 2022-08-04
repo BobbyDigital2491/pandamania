@@ -77,7 +77,7 @@ export default function index() {
 
       <NavComponent />
       <Hero />
-      <AboutSection />
+      
       <MarketPlace />
       <Community />
       <Discover />
