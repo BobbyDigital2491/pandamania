@@ -20,9 +20,7 @@ const data = [
   {
     image: "mingg.png",
   },
-  {
-    image: "mingz.png",
-  },
+  
 
 ];
 
