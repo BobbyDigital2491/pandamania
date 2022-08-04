@@ -29,12 +29,13 @@ export default function MarketPlace() {
             </div>
             <div className="max-w-2xl my-8 space-y-4  xl:col-span-2 text-left">
               <h2 className="text-5xl sm:text-[80px] font-bold">
-                Built on Hedera
+                What is Pandamania?
               </h2>
               <p className="">
-              We are stout supporters of the Hedera network for several reasons. 
-                Reasons include the nominal fees associated with the minting and transferring of NFTs, speed of token transfers, security of the network and more. 
-                They allow NFTs to become more accessible to a broader audience. The Hedera community’s love and support is unmatched. 
+             Pandamania is a collection of NFT projects that is set to bring change to the digital and real world. 
+            Providing value to the world around us and inspiring love and change for a better tomorrow. 
+            Bringing value to our NFT holders and allowing them to use us to make a difference in the world. 
+            We are love. We are hope. We are one. We are Pandamania. 
               </p>
             </div>
           </div>
