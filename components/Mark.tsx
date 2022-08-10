@@ -29,14 +29,20 @@ export default function MarketPlace() {
             </div>
             <div className="max-w-2xl my-8 space-y-4  xl:col-span-2 text-left">
               <h2 className="text-5xl sm:text-[80px] font-bold">
-                What is $MNGO Token?
+               $MNGO Staking Rewards
               </h2>
               <p className="">
-                MNGO token is a fungible token built on Hedera with 50,000,000 supply. It is the token that represents the Pandamania Collections (Hashmingos,
-                Lady Mingos, and Panda Syndicates) and used within its community. This  utility token offers different usages and activities that keeps
-                the community engaged while rewarding them for being a supporter. Mingo’s World or Pandamania ecosystem is built around the usage of 
-                MNGO and creating more and more ways to help maintain its importance and usage throughout the entire Hedera, including making important
-                partnerships to take the token to the next level. 
+               We have partnered up with HbarSUITE to provide staking to our holders. Their are a team of developers that continues to bring value and 
+              tools into Hedera’s ecosystem. They have set up a non custodial form of staking for our holders and rewards are issued weekly on 
+              Sunday evening. 
+
+              $MNGO staking rates:
+              - Hashmingos 20 $MNGO/ Weekly
+              - Pandamanians 60 $MNGO/ Weekly
+              - Lady Mingos 70 $MNGO/ Weekly
+
+              As the project is expands we will we offer $MNGO into partnering projects community as well helping with the growth of $MNGO and partnering
+              projects.
               </p>
             </div>
           </div>
