@@ -1,6 +1,6 @@
 import React from "react";
 import { NftCard } from "./NftCard";
-import { XftCard } from "./NftCard";
+import { XftCard } from "./XftCard";
 
 export default function MarketPlace() {
   return (
