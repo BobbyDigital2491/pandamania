@@ -29,13 +29,14 @@ export default function MarketPlace() {
             </div>
             <div className="max-w-2xl my-8 space-y-4  xl:col-span-2 text-left">
               <h2 className="text-5xl sm:text-[80px] font-bold">
-                What is Pandamania?
+                What is $MNGO Token?
               </h2>
               <p className="">
-             Pandamania is a collection of NFT projects that is set to bring change to the digital and real world. 
-            Providing value to the world around us and inspiring love and change for a better tomorrow. 
-            Bringing value to our NFT holders and allowing them to use us to make a difference in the world. 
-            We are love. We are hope. We are one. We are Pandamania. 
+                MNGO token is a fungible token built on Hedera with 50,000,000 supply. It is the token that represents the Pandamania Collections (Hashmingos,
+                Lady Mingos, and Panda Syndicates) and used within its community. This  utility token offers different usages and activities that keeps
+                the community engaged while rewarding them for being a supporter. Mingo’s World or Pandamania ecosystem is built around the usage of 
+                MNGO and creating more and more ways to help maintain its importance and usage throughout the entire Hedera, including making important
+                partnerships to take the token to the next level. 
               </p>
             </div>
           </div>
