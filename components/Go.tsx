@@ -6,7 +6,7 @@ export default function Hero() {
       <div className="flex  w-full flex-wrap xl:flex-nowrap container mx-auto  justify-between  py-[2rem] z-50 ">
         <div className="flex sm:mt-8 flex-col  text-left px-2   ">
           <img src="bird.png" />
-          <h1 className="text-5xl sm:text-[80px]">Project Mission</h1>
+          <h1 className="text-5xl sm:text-[80px]">What is $MNGO Token?</h1>
           <br/>
           <p className="max-w-lg text-xl ">
            The mission of this project is to promote quality art at an affordable
