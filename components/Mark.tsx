@@ -38,6 +38,7 @@ export default function MarketPlace() {
                 <br/>
               $MNGO staking rates:
                 <br/>
+                <br/>
               <ul> 
               <li> - Hashmingos 20 $MNGO/ Weekly </li>
               <li> - Pandamanians 60 $MNGO/ Weekly </li>
