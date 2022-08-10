@@ -41,7 +41,7 @@ export default function Community() {
       </div>
       <div className="flex flex-col container mx-auto">
         <h1 className="text-5xl sm:text-[80px] flex flex-col align-middle ">
-          Community <span>Engagement</span>{" "}
+          $MNGO <span>Utilities</span>{" "}
         </h1>
         <div className="flex flex-wrap   justify-center  items-center">
           {data.map((n, index) => {
