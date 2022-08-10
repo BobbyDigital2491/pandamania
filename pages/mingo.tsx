@@ -4,7 +4,7 @@ import Community from "../components/Community";
 import Discover from "../components/Discover";
 import Footer from "../components/Footer";
 import Go from "../components/Go";
-import MarketPlace from "../components/MarketPlace";
+import Mark from "../components/Mark";
 import NavComponent from "../components/NavComponent";
 
 const NftCard = () => {
@@ -78,7 +78,7 @@ export default function index() {
       <NavComponent />
       <Go />
       
-      <MarketPlace />
+      <Mark />
       <Community />
       <Discover />
       <Footer />
