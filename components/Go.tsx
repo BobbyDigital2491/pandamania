@@ -9,17 +9,11 @@ export default function Hero() {
           <h1 className="text-5xl sm:text-[80px]">What is $MNGO Token?</h1>
           <br/>
           <p className="max-w-lg text-xl ">
-           The mission of this project is to promote quality art at an affordable
-          price without straying away from the utilities and benefits of our
-          holders. We will stay committed to bringing value to the project, by
-          focusing on the short and long term goals. Preparing ourselves for
-          long term stability with each short term success one step at a time.
-          Pandamania’s collection consists of multiple projects that share the
-          same common goal. These projects work as a bridge for each other as
-          one focus on community development the other focus on project
-          development. Allowing us to build in both areas effectively and set up
-          a support even throughout a bear market. If conditions change, then
-          the project adapts to the change and continue moving forward.{" "}
+           MNGO token is a fungible token built on Hedera with 50,000,000 supply. 
+            It is the token that represents the Pandamania Collections (Hashmingos, Lady Mingos, and Panda Syndicates) and used within its community. 
+            This  utility token offers different usages and activities that keeps the community engaged while rewarding them for being a supporter. 
+            Mingo’s World or Pandamania ecosystem is built around the usage of MNGO and creating more and more ways to help maintain its importance 
+            and usage throughout the entire Hedera, including making important partnerships to take the token to the next level. {" "}
           </p>
           <div className="flex  items-center sm:justify-center mt-10 sm:m-0 lg:justify-start ">
             <>
