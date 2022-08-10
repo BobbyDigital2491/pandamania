@@ -4,32 +4,32 @@ const data = [
   {
     title: "01/",
     description:
-      "Stay consistent and never get uncomfortable. Build when everyone is asleep. Never be afraid to adapt to change when needed.",
+      "Auction and raffles for NFTs and “other things” using $MNGO only being held in our discord.",
   },
   {
     title: "02/",
     description:
-      "Full transparancy and community engagement when developing and deploying new projects. ",
+      "$MNGO Mystery Wheel is being reconstructed into $MNGO Bust or Miss. This will allow holders to pay XXXX amount $MNGO for a chance to win NFT worth 0-3000h. ",
   },
   {
     title: "03/",
     description:
-      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project .",
+      "$MNGO Marketplace is a marketplace within discord for holders that sales them NFTs at a 10-20% discount using $MNGO. ",
   },
   {
     title: "04/",
     description:
-      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project .",
+      "Saucer Swap listing. $MNGO will be listed onto Saucer Swap defi platform to allow our holders to trade $MNGO freely. ",
   },
   {
     title: "05/",
     description:
-      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project .",
+      "$MNGO will be used in mints and claiming other NFTs, including claiming a percentage of Mutant Pandas for $MNGO. ",
   },
   {
     title: "06/",
     description:
-      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project .",
+      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project. ",
   },
 ];
 
@@ -41,7 +41,7 @@ export default function Community() {
       </div>
       <div className="flex flex-col container mx-auto">
         <h1 className="text-5xl sm:text-[80px] flex flex-col align-middle ">
-          $MNGO <span>Utilities</span>{" "}
+          $MNGO <span> Hodlers Utilities</span>{" "}
         </h1>
         <div className="flex flex-wrap   justify-center  items-center">
           {data.map((n, index) => {
