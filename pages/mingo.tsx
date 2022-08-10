@@ -1,7 +1,7 @@
 import React from "react";
 import AboutSection from "../components/AboutSection";
 import Utility from "../components/Utility";
-import Discover from "../components/Discover";
+
 import Footer from "../components/Footer";
 import Go from "../components/Go";
 import Mark from "../components/Mark";
@@ -80,7 +80,7 @@ export default function index() {
       
       <Mark />
       <Utility />
-      <Discover />
+      
       <Footer />
     </>
   );
