@@ -29,7 +29,7 @@ const data = [
   {
     title: "06/",
     description:
-      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project. ",
+      "$MNGO token games. We have partnered with Creamies NFT team to bring token games to $MNGO. ",
   },
 ];
 
