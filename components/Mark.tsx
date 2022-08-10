@@ -15,7 +15,7 @@ export default function MarketPlace() {
                     <NftCard image="mtpan.png" />
                   </div>
                   <div className="py-10">
-                    <NftCard image="cow.png" />
+                    <MftCard image="cow.png" />
                   </div>
                 </div>
                 <div className="grid content-center ">
