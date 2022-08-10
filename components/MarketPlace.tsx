@@ -3,6 +3,8 @@ import { NftCard } from "./NftCard";
 import { XftCard } from "./XftCard";
 import { ZftCard } from "./ZftCard";
 import { RftCard } from "./RftCard";
+import { DftCard } from "./DftCard";
+
 
 export default function MarketPlace() {
   return (
@@ -25,7 +27,7 @@ export default function MarketPlace() {
                     <RftCard image="lady.png" />
                   </div>
                   <div className="py-10">
-                    <NftCard image="fish.png" />
+                    <DftCard image="fish.png" />
                   </div>
                 </div>
               </div>
