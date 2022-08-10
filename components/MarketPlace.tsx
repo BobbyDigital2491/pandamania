@@ -3,7 +3,7 @@ import { NftCard } from "./NftCard";
 import { XftCard } from "./XftCard";
 import { ZftCard } from "./ZftCard";
 import { RftCard } from "./RftCard";
-
+import { JftCard } from "./JftCard";
 
 
 export default function MarketPlace() {
