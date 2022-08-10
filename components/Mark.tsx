@@ -11,18 +11,18 @@ export default function MarketPlace() {
               <div className="grid md:grid-cols-2">
                 <div className="grid content-center ml-[3vw] relative -mt-[10rem]">
                   <div className="py-10">
-                    <NftCard image="crown.png" />
+                    <NftCard image="mtpan.png" />
                   </div>
                   <div className="py-10">
-                    <NftCard image="guns.png" />
+                    <NftCard image="cow.png" />
                   </div>
                 </div>
                 <div className="grid content-center ">
                   <div className="py-10">
-                    <NftCard image="lady.png" />
+                    <NftCard image="punk.png" />
                   </div>
                   <div className="py-10">
-                    <NftCard image="fish.png" />
+                    <NftCard image="dead.png" />
                   </div>
                 </div>
               </div>
