@@ -42,7 +42,7 @@ export default function MarketPlace() {
               - Pandamanians 60 $MNGO/ Weekly
               - Lady Mingos 70 $MNGO/ Weekly
                 </ul>
-
+              <br/>
               As the project is expands we will we offer $MNGO into partnering projects community as well helping with the growth of $MNGO and partnering
               projects.
               </p>
