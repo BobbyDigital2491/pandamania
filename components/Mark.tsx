@@ -34,12 +34,14 @@ export default function MarketPlace() {
               <p className="">
                We have partnered up with HbarSUITE to provide staking to our holders. Their are a team of developers that continues to bring value and 
               tools into Hedera’s ecosystem. They have set up a non custodial form of staking for our holders and rewards are issued weekly on 
-              Sunday evening. 
+              Sunday evening.
+                <br/>
 
-              $MNGO staking rates:
+              <ul> $MNGO staking rates:
               - Hashmingos 20 $MNGO/ Weekly
               - Pandamanians 60 $MNGO/ Weekly
               - Lady Mingos 70 $MNGO/ Weekly
+                </ul>
 
               As the project is expands we will we offer $MNGO into partnering projects community as well helping with the growth of $MNGO and partnering
               projects.
