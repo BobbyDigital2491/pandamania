@@ -3,7 +3,7 @@ import AboutSection from "../components/AboutSection";
 import Community from "../components/Community";
 import Discover from "../components/Discover";
 import Footer from "../components/Footer";
-import Hero from "../components/Hero";
+import Go from "../components/Go";
 import MarketPlace from "../components/MarketPlace";
 import NavComponent from "../components/NavComponent";
 
