@@ -16,7 +16,7 @@ export default function Gang() {
                   <Von image="pan32.png" />
                 </div>
                 <div className="py-10">
-                  <NftCard image="cel.jpg" />
+                  <Cel image="cel.jpg" />
                 </div>
               </div>
               <div className="grid content-center ">
