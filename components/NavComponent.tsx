@@ -14,7 +14,7 @@ const navData = [
   },
   {
     name: "$MNGO",
-    href: "https://panda-six-flame.vercel.app/",
+    href: "/mingo",
   },
   {
     name: "Team",
