@@ -36,8 +36,8 @@ export default function MarketPlace() {
               tools into Hedera’s ecosystem. They have set up a non custodial form of staking for our holders and rewards are issued weekly on 
               Sunday evening.
                 <br/>
-
-              <ul> $MNGO staking rates:
+              $MNGO staking rates:
+              <ul> 
               - Hashmingos 20 $MNGO/ Weekly
               - Pandamanians 60 $MNGO/ Weekly
               - Lady Mingos 70 $MNGO/ Weekly
