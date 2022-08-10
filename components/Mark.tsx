@@ -39,9 +39,9 @@ export default function MarketPlace() {
               $MNGO staking rates:
                 <br/>
               <ul> 
-              - Hashmingos 20 $MNGO/ Weekly
-              - Pandamanians 60 $MNGO/ Weekly
-              - Lady Mingos 70 $MNGO/ Weekly
+              <li> - Hashmingos 20 $MNGO/ Weekly </li>
+              <li> - Pandamanians 60 $MNGO/ Weekly </li>
+              <li> - Lady Mingos 70 $MNGO/ Weekly </li>
                 </ul>
               <br/>
               As the project is expands we will we offer $MNGO into partnering projects community as well helping with the growth of $MNGO and partnering
