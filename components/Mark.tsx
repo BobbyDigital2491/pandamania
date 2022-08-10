@@ -1,6 +1,6 @@
 import React from "react";
 import { NftCard } from "./NftCard";
-import { Cow } from "./Cow";
+
 
 export default function MarketPlace() {
   return (
@@ -15,7 +15,7 @@ export default function MarketPlace() {
                     <NftCard image="mtpan.png" />
                   </div>
                   <div className="py-10">
-                    <Cow image="cow.png" />
+                    <NftCard image="cow.png" />
                   </div>
                 </div>
                 <div className="grid content-center ">
