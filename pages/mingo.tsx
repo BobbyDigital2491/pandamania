@@ -76,7 +76,7 @@ export default function index() {
       </div>
 
       <NavComponent />
-      <Hero />
+      <Go />
       
       <MarketPlace />
       <Community />
