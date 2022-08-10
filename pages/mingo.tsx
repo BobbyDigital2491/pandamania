@@ -1,6 +1,6 @@
 import React from "react";
 import AboutSection from "../components/AboutSection";
-import Community from "../components/Community";
+import Utility from "../components/Utility";
 import Discover from "../components/Discover";
 import Footer from "../components/Footer";
 import Go from "../components/Go";
@@ -79,7 +79,7 @@ export default function index() {
       <Go />
       
       <Mark />
-      <Community />
+      <Utility />
       <Discover />
       <Footer />
     </>
