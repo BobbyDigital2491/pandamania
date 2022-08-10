@@ -1,6 +1,7 @@
 import React from "react";
 import { NftCard } from "./NftCard";
 import { XftCard } from "./XftCard";
+import { ZftCard } from "./ZftCard";
 
 export default function MarketPlace() {
   return (
@@ -15,7 +16,7 @@ export default function MarketPlace() {
                     <XftCard image="crown.png" />
                   </div>
                   <div className="py-10">
-                    <NftCard image="guns.png" />
+                    <ZftCard image="guns.png" />
                   </div>
                 </div>
                 <div className="grid content-center ">
