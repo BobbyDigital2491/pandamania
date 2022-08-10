@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { NftCard } from "./NftCard";
 import { Von } from "./Von";
+import { Cel } from "./Cel";
 
 export default function Gang() {
   return (
