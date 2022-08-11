@@ -9,7 +9,7 @@ export default function Hero() {
           <h1 className="text-5xl sm:text-[80px]">What is $MNGO Token?</h1>
           <br/>
           <p className="max-w-lg text-xl ">
-           MNGO token is a fungible token built on Hedera with 50,000,000 supply. 
+           $MNGO token is a fungible token built on Hedera with 50,000,000 supply. 
             It is the token that represents the Pandamania Collections (Hashmingos, Lady Mingos, and Panda Syndicates) and used within its community. 
             This  utility token offers different usages and activities that keeps the community engaged while rewarding them for being a supporter. 
             Mingo’s World or Pandamania ecosystem is built around the usage of MNGO and creating more and more ways to help maintain its importance 
