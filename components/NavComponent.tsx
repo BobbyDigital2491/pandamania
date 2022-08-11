@@ -20,10 +20,7 @@ const navData = [
     name: "Team",
     href: "/team",
   },
-  {
-    name: "Contact",
-    href: "/contact",
-  },
+  
 ];
 
 export default function NavComponent() {
