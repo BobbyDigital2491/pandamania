@@ -27,7 +27,7 @@ export default function MarketPlace() {
                     <RftCard image="lady.png" />
                   </div>
                   <div className="py-10">
-                    <JftCard image="fish.png" />
+                    <NftCard image="fish.png" />
                   </div>
                 </div>
               </div>
