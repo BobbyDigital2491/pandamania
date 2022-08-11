@@ -14,7 +14,20 @@ const data = [
   {
     title: "03/",
     description:
-      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project .",
+      "Sacrifice when needed in order to bring constant value to holders. Constantly innovating for the greater good of the project. ",
+  },
+  {
+    title: "04/",
+    description:
+      "Make a difference in the world and allow the project community to experience and witness what their support can do in and outside of web 3. ",
+  },{
+    title: "05/",
+    description:
+      "Be supportive. Support those who support you and be attentive of even the little things. Sometime just a kind word can change someone's day. Create a family. ",
+  },{
+    title: "06/",
+    description:
+      "Don't be selfish. Never fall in a path of greed, give me, give me, give me! Rather, be willing to give to those who believe in the project endless. They're the foundation, not you.",
   },
 ];
 
