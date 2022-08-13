@@ -2,6 +2,7 @@ import Link from "next/link";
 import { NftCard } from "./NftCard";
 import { Von } from "./Von";
 import { Cel } from "./Cel";
+import { KftCard } from "./KftCard";
 
 export default function Gang() {
   return (
@@ -22,7 +23,7 @@ export default function Gang() {
               </div>
               <div className="grid content-center ">
                 <div className="py-10">
-                  <NftCard image="lazy.jpg" />
+                  <KftCard image="lazy.jpg" />
                 </div>
                 <div className="py-10">
                   <NftCard image="gold.jpeg" />
