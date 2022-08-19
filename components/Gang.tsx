@@ -41,7 +41,7 @@ export default function Gang() {
               They allow NFTs to become more accessible to a broader audience. The Hedera community’s love and support is unmatched.
               <br/>
               <br/>
-              Shoutout to our community managers Frumpyonion, Hashgraphia, Bobbydigital24.
+              Shoutout to our community managers Frumpyonion, Hashgraphia, Rhett, VJ Lee, IRepLegacy, & Bobbydigital24.
               
             </p>
 
