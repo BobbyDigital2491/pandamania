@@ -38,7 +38,7 @@ export default function Like() {
             <br/>
             - $MNGO Discord Marketplace 
             <br/>
-            - Launch $MNGO Buyback Program
+            - $MNGO Saucer Swap Listing
             <br/>
             - Launch Mutant Pandas {" "}
           </p>
