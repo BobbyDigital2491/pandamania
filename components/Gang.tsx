@@ -40,6 +40,7 @@ export default function Gang() {
               Reasons include the nominal fees associated with the minting and transferring of NFTs, speed of token transfers, security of the network and more. 
               They allow NFTs to become more accessible to a broader audience. The Hedera community’s love and support is unmatched.
               <br/>
+              <br/>
               Shoutout to our community managers Frumpyonion, Hashgraphia, Bobbydigital24.
               
             </p>
