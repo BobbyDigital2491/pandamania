@@ -35,10 +35,17 @@ export default function Like() {
             <br/>
             - Access to post mint celebration "Mutated ONLY Royal Rumbles"
             <br/>
-            - Elite Mutants (10+ Mutant holders) have different level of tier giveaways
-            (to celebrate the post mint celebration)
+            - Elite Mutants (10+ Mutant holders) have different level of tier giveaways.
+            <br/>
+            <b>To celebrate the post mint<b/>
+             <br/>
+            <br/>
+              Royal Rumbles will last 7 days (week) with 7 winners each day!
+              Elite Mutants giveaways will last 7 days, 1 winner each day!
             <br/>
             <br/>
+              <b>Mutant Pandas forever utilities?<b/>
+              ALL HAVE GONE MUTANT! TBA!
             
               
           </p>
