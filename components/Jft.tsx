@@ -2,7 +2,7 @@ interface Props {
   image: string;
 }
 
-export const KftCard = ({ image }: Props) => {
+export const JftCard = ({ image }: Props) => {
   return (
     <div className="border-2 min-h-[300px] sm:py-4 max-w-[250px] rounded-xl  sm:rounded-md ">
       <div className="sm:-right-8 sm:-top-[50px] relative  ">
@@ -22,7 +22,7 @@ export const KftCard = ({ image }: Props) => {
     </div>
   );
 };
-export const KftCardWithButton = ({ image }: Props) => {
+export const JftCardWithButton = ({ image }: Props) => {
   return (
     <div className="border-2 min-h-[430px] sm:py-4 my-10 rounded-xl  max-w-[350px]  sm:rounded-md ">
       <div className="sm:bg-black sm:px-3 sm:py-2 sm:-right-8 sm:-top-[50px] relative   ">
