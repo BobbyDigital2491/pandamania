@@ -1,5 +1,5 @@
 import React from "react";
-import { JftCard } from "./NftCard";
+import { NftCard } from "./NftCard";
 import { XftCard } from "./XftCard";
 import { ZftCard } from "./ZftCard";
 import { RftCard } from "./RftCard";
@@ -27,7 +27,7 @@ export default function MarketPlace() {
                     <RftCard image="lady.png" />
                   </div>
                   <div className="py-10">
-                    <JftCard image="fish.png" />
+                    <NftCard image="fish.png" />
                   </div>
                 </div>
               </div>
