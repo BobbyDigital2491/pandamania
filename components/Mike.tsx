@@ -17,6 +17,8 @@ export default function Like() {
             <br/>
             <br/>
             <b>How will they bridge the gap?</b>
+            <br/>
+            <br/>
             By partnering with Clown Society to invest/ create real world businesses that'll bring in consistent cash flow back into the project, 
             without the need or pain of creating continuous projects here after. This also creates a source of income to fund $MNGO activities, 
             long term and maintain value for project holders.
