@@ -45,7 +45,7 @@ export default function Like() {
             Elite Mutants giveaways will last 7 days, 1 winner each day!
             <br/>
             <br/>
-            Mutant Pandas forever utilities?
+            <b>Mutant Panda Forever Utilities?</b>
             <br/>
             ALL HAVE GONE MUTANT! TBA! 
 
