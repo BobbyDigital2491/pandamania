@@ -28,11 +28,17 @@ export default function Like() {
             <br/>
             <br/>
             - One time airdrop of 777 $HSUITE for every Mutant you own
+            <br/>
             - One time airdrop of 77  $CREAM for every Mutant you own
+            <br/>
             - One time airdrop of 7 $SAUCE for every Mutant you own
+            <br/>
             - Access to post mint celebration "Mutated ONLY Royal Rumbles"
+            <br/>
             - Elite Mutants (10+ Mutant holders) have different level of tier giveaways
             (to celebrate the post mint celebration)
+            <br/>
+            <br/>
             
               
           </p>
