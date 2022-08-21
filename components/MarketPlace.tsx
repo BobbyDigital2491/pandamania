@@ -1,5 +1,5 @@
 import React from "react";
-import { HftCard } from "./NftCard";
+import { HftCard } from "./HftCard";
 import { XftCard } from "./XftCard";
 import { ZftCard } from "./ZftCard";
 import { RftCard } from "./RftCard";
