@@ -10,37 +10,10 @@ export default function Like() {
           </h1>
           <br/>
           <p className="max-w-lg ">
-           Q4 2021 
-            - (ALL ACCOMPLISHED)
-            <br/>
-            Q1 2022
-            - (ALL ACCOMPLISHED)
-            <br/>
-            Q2 2022
-            - (ALL ACCOMPLISHED)
-            <br/><br/>
-            Q3 2022<br/>
-            - Rebranding ✅
-            <br/>
-            - Staking and MNGO airdrops ✅
-            <br/>
-            - Panda Syndicates relaunch ✅
-            <br/>
-            - Hashmingos relaunch ✅
-            <br/>
-            - Lady Mingos claim ✅
-            <br/>
-            - $MNGO Wheel reconstruction into $MNGO Bust or Miss
-            <br/>
-            - Burn 2000 Hashmingos (1600 currently)
-            <br/>
-            - Hashmingos Burn to Enter Raffles
-            <br/>
-            - $MNGO Discord Marketplace 
-            <br/>
-            - $MNGO Saucer Swap Listing
-            <br/>
-            - Launch Mutant Pandas {" "}
+           Mutants will introduce a new era for NFTs, it is a true form of bridging the gap between Web 2 and Web 3!
+            The Mutant Pandas will solve issues that nearly 98% of NFT projects will continue to face, even now majority are facing this issue, 
+            "How to maintain consistent cash flow for stable project growth?" Mutants will introduce Hedera ecosystem into a way of combining real world 
+            businesses with digital projects without straying away from the quality of each! 
           </p>
 
         </div>
