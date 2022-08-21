@@ -38,12 +38,7 @@ export default function Like() {
             - Elite Mutants (10+ Mutant holders) have different level of tier giveaways.
             <br/>
             <b>To celebrate the post mint<b/>
-             <br/>
-            <br/>
-              Royal Rumbles will last 7 days (week) with 7 winners each day!
-              Elite Mutants giveaways will last 7 days, 1 winner each day!
-            <br/>
-            <br/>
+             
               
               
           </p>
