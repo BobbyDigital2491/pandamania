@@ -78,7 +78,7 @@ export default function about() {
 
       <NavComponent />
       
-      <Like/>
+      <Mike/>
       
       <Footer />
     </>
