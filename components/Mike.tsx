@@ -22,6 +22,17 @@ export default function Like() {
             By partnering with Clown Society to invest/ create real world businesses that'll bring in consistent cash flow back into the project, 
             without the need or pain of creating continuous projects here after. This also creates a source of income to fund $MNGO activities, 
             long term and maintain value for project holders.
+            <br/>
+            <br/>
+            <b>Mutant Pandas post mint utilities?<b/>
+              <br/>
+              <br/>
+              - One time airdrop of 777 $HSUITE for every Mutant you own
+              - One time airdrop of 77  $CREAM for every Mutant you own
+              - One time airdrop of 7 $SAUCE for every Mutant you own
+              - Access to post mint celebration "Mutated ONLY Royal Rumbles"
+              - Elite Mutants (10+ Mutant holders) have different level of tier giveaways
+              (to celebrate the post mint celebration)
           </p>
 
         </div>
