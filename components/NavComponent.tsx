@@ -17,6 +17,10 @@ const navData = [
     href: "/mingo",
   },
   {
+    name: "Mutant Pandas",
+    href: "/team",
+  },
+  {
     name: "Team",
     href: "/team",
   },
