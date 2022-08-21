@@ -45,7 +45,7 @@ export default function Like() {
 
         </div>
         
-          <img src="map.jpg"  width='600'  />
+          <img src="mtpan.png"  width='600'  />
        
       </div>
     </div>
