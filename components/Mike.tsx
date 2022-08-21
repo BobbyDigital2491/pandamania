@@ -14,6 +14,11 @@ export default function Like() {
             The Mutant Pandas will solve issues that nearly 98% of NFT projects will continue to face, even now majority are facing this issue, 
             "How to maintain consistent cash flow for stable project growth?" Mutants will introduce Hedera ecosystem into a way of combining real world 
             businesses with digital projects without straying away from the quality of each! 
+            <br/>
+            How will they bridge the gap?
+            By partnering with Clown Society to invest/ create real world businesses that'll bring in consistent cash flow back into the project, 
+            without the need or pain of creating continuous projects here after. This also creates a source of income to fund $MNGO activities, 
+            long term and maintain value for project holders.
           </p>
 
         </div>
