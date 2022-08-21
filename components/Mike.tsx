@@ -37,7 +37,7 @@ export default function Like() {
             <br/>
             - Elite Mutants (10+ Mutant holders) have different level of tier giveaways.
             <br/>
-            <b>To celebrate the post mint<b/>
+            
              
               
               
