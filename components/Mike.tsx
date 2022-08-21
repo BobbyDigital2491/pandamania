@@ -24,7 +24,7 @@ export default function Like() {
             long term and maintain value for project holders.
             <br/>
             <br/>
-            <b>Mutant Pandas post mint utilities?<b/>
+            
               
           </p>
 
