@@ -81,7 +81,7 @@ export default function index() {
       <MarketPlace />
       <Community />
       <Discover />
-      <h2 className="text-2xl sm:text-[50px]"><i>Winning Bid: 58,000 HBAR </i></h2>
+      <h2 className="text-2xl sm:text-[50px]"><i>&nbsp;&nbsp;&nbsp;&nbsp;Winning Bid: 58,000 HBAR </i></h2>
       <Footer />
     </>
   );
