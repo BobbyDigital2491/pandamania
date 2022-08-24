@@ -29,7 +29,7 @@ export const NftCardWithButton = ({ image }: Props) => {
         <img src={image} alt="title" className="rounded-t-xl sm:rounded-none" />
       </div>
       <div className="px-6 sm:-mt-4 py-4 sm:py-0">
-        <h1 className="text-[30px] font-bold font-mono">Hashmingos</h1>
+        <h1 className="text-[30px] font-bold font-mono"></h1>
         <div className="flex justify-between w-full mb-4 mt-2 px-3">
           <div className="flex items-center  text-xl">
             
