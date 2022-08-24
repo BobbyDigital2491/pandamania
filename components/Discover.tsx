@@ -1,5 +1,5 @@
 import React from "react";
-import { DftCardWithButton } from "./NftCard";
+import { DftCardWithButton } from "./DftCard";
 
 const data = [
   {
