@@ -21,7 +21,6 @@ export default function Discover() {
       <div className="flex py-10 ">
         <h1 className="text-5xl sm:text-[80px]">The Real Little Fish</h1>
         <br/>
-        <h2 className="text-2xl sm:text-[50px]"><i>Winning Bid: 58,000 HBAR</i></h2>
       </div>
       <br/>          
       <div className="flex flex-wrap justify-between  items-center ">
