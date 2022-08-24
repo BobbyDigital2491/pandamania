@@ -1,5 +1,5 @@
 import React from "react";
-import { NftCardWithButton } from "./NftCard";
+import { DftCardWithButton } from "./NftCard";
 
 const data = [
   {
@@ -25,7 +25,7 @@ export default function Discover() {
         {/* <div className="grid grid-flow-row grid-cols-1 xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2  w-full justify-center items-center  grid-rows-4 gap-10"> */}
 
         {data.map((n, index) => {
-          return  <NftCardWithButton image={n.image} key={index} />;
+          return  <DftCardWithButton image={n.image} key={index} />;
         })}
       </div>
     </div>
