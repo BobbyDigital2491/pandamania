@@ -80,7 +80,7 @@ export default function index() {
       
       <MarketPlace />
       <Community />
-      
+      <Discover />
       <Footer />
     </>
   );
