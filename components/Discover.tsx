@@ -6,10 +6,10 @@ const data = [
     image: "head.jpeg",
   },
   {
-    image: "cyborg.jpeg",
+    image: "next.jpeg",
   },
   {
-    image: "yellow.jpeg",
+    image: "gold.jpeg",
   },
   
 
