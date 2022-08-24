@@ -11,15 +11,6 @@ const data = [
   {
     image: "yellow.png",
   },
-  {
-    image: "ruby.png",
-  },
-  {
-    image: "mingo.png",
-  },
-  {
-    image: "mingg.png",
-  },
   
 
 ];
