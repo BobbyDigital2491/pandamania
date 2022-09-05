@@ -57,6 +57,8 @@ export default function Like() {
             <br/>
             - Trucking Plan Reveal
             <br/>
+            - Project hodlers benefits from Web 2 business reveal
+            <br/>
             -  IRL Christmas toy giveaway
           </p>
 
