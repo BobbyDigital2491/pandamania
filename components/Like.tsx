@@ -46,11 +46,17 @@ export default function Like() {
             Q4 2021 
             <br/>
             - H SUITE bonus staking rewards release ✅
+            <br/>
             - 30 Custom Elite Mutant Pandas released ✅
+            <br/>
             - Lock all $MNGO staking rewards services for a year ✅
+            <br/>
             - LIGHT Reflection & Sun Blood Pandas auctioned off  
+            <br/>
             - Business collaboration with CS Transortation LLC
+            <br/>
             - Trucking Plan Reveal
+            <br/>
             - Christmas toy givaway
           </p>
 
