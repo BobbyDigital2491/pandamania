@@ -40,7 +40,7 @@ export default function Like() {
             <br/>
             
             <b>Mutant Panda Utilities and Benefits</b>
-              <img src="unknown.jpeg"  width='300'  />
+              <img src="unknown.jpeg"  width='500'  />
             
             <br/>
             ALL HAVE GONE MUTANT! TBA! 
