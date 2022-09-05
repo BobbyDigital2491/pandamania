@@ -27,15 +27,15 @@ export default function Like() {
             <b>Mutant Pandas post mint utilities?</b>
             <br/>
             <br/>
-            - One time airdrop of 777 $HSUITE for every Mutant you own
+            - One time airdrop of 777 $HSUITE for every Mutant you own ✅
             <br/>
-            - One time airdrop of 77  $CREAM for every Mutant you own
+            - One time airdrop of 77 $CREAM for every Mutant you own ✅
             <br/>
-            - One time airdrop of 7 $SAUCE for every Mutant you own
+            - One time airdrop of 7 $SAUCE for every Mutant you own ✅
             <br/>
-            - Access to post mint celebration "Mutated ONLY Royal Rumbles"
+            - Access to post mint celebration "Mutated ONLY Royal Rumbles" ✅
             <br/>
-            - Elite Mutants (10+ Mutant holders) have different level of tier giveaways.
+            - Elite Mutants (10+ Mutant holders) have different level of tier giveaways. ✅
             <br/>
             <br/>
             <b>To celebrate the post mint</b>
