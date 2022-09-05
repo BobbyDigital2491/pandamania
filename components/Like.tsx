@@ -32,13 +32,13 @@ export default function Like() {
             <br/>
             - $MNGO Wheel reconstruction into $MNGO Bust or Miss
             <br/>
-            - Burn 2000 Hashmingos (1600 currently)
+            - Burn 2000 Hashmingos (1600 currently) ✅
             <br/>
-            - Hashmingos Burn to Enter Raffles
+            - Hashmingos Burn to Enter Raffles ✅
             <br/>
-            - $MNGO Discord Marketplace 
+            - $MNGO Discord Marketplace ✅
             <br/>
-            - $MNGO Saucer Swap Listing
+            - $MNGO Saucer Swap Listing ✅
             <br/>
             - Launch Mutant Pandas {" "}
           </p>
