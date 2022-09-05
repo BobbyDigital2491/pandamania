@@ -57,7 +57,7 @@ export default function Like() {
             <br/>
             - Trucking Plan Reveal
             <br/>
-            - Christmas toy givaway
+            -  IRL Christmas toy giveaway
           </p>
 
         </div>
