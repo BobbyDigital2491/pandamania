@@ -40,7 +40,7 @@ export default function Like() {
             <br/>
             - $MNGO Saucer Swap Listing ✅
             <br/>
-            - Launch Mutant Pandas {" "}
+            - Launch Mutant Pandas {" "}✅
           </p>
 
         </div>
