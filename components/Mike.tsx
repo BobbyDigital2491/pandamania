@@ -24,7 +24,7 @@ export default function Like() {
             long term and maintain value for project holders.
             <br/>
             <br/>
-            <b>Mutant Pandas post mint utilities?</b>
+            <b>Mutant Pandas post mint utilities</b>
             <br/>
             <br/>
             - One time airdrop of 777 $HSUITE for every Mutant you own ✅
@@ -40,6 +40,7 @@ export default function Like() {
             <br/>
             
             <b>Mutant Panda Utilities and Benefits</b>
+            <br/>
               <img src="unknown.jpeg"  width='600'  />
             
             <br/>
