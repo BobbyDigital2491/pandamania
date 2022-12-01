@@ -55,9 +55,9 @@ export default function Like() {
             <br/>
             - Business collaboration with CS Transportation LLC
             <br/>
-            - Trucking Plan Reveal
+            - Trucking Plan Reveal✅
             <br/>
-            - Project hodlers benefits from Web 2 business reveal
+            - Project hodlers benefits from Web 2 business reveal✅
             <br/>
             -  IRL Christmas toy giveaway
             <br/><br/>
