@@ -45,7 +45,7 @@ export default function Like() {
             <br/>
             Q4 2021 
             <br/>
-            - H SUITE bonus staking rewards release ✅
+            - HSUITE bonus staking rewards release ✅
             <br/>
             - 30 Custom Elite Mutant Pandas released ✅
             <br/>
@@ -53,13 +53,16 @@ export default function Like() {
             <br/>
             - LIGHT Reflection & Sun Blood Pandas auctioned off  
             <br/>
-            - Business collaboration with CS Transortation LLC
+            - Business collaboration with CS Transportation LLC
             <br/>
             - Trucking Plan Reveal
             <br/>
             - Project hodlers benefits from Web 2 business reveal
             <br/>
             -  IRL Christmas toy giveaway
+            <br/>
+            Q1 2023
+            - Coming Soon
           </p>
 
         </div>
