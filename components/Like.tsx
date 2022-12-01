@@ -60,7 +60,7 @@ export default function Like() {
             - Project hodlers benefits from Web 2 business reveal
             <br/>
             -  IRL Christmas toy giveaway
-            <br/>
+            <br/><br/>
             Q1 2023 <br/>
             - Focus on improving the utillies and benefits that have already been established. Also diving more into Web 2 business ventures and project overall promotion.
           </p>
