@@ -61,7 +61,7 @@ export default function Like() {
             <br/>
             -  IRL Christmas toy giveaway
             <br/>
-            Q1 2023
+            Q1 2023 <br/>
             - Focus on improving the utillies and benefits that have already been established. Also diving more into Web 2 business ventures and project overall promotion.
           </p>
 
