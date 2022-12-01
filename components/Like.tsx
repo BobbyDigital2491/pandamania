@@ -43,7 +43,7 @@ export default function Like() {
             - Launch Mutant Pandas {" "}✅
             <br/>
             <br/>
-            Q4 2021 
+            Q4 2022 
             <br/>
             - HSUITE bonus staking rewards release ✅
             <br/>
@@ -62,7 +62,7 @@ export default function Like() {
             -  IRL Christmas toy giveaway
             <br/>
             Q1 2023
-            - Coming Soon
+            - Focus on improving the utillies and benefits that have already been established. Also diving more into Web 2 business ventures and project overall promotion.
           </p>
 
         </div>
