@@ -25,25 +25,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/home": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/home.js"
-    ],
-    "/mingo": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/mingo.js"
-    ],
     "/pmx": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/pmx.js"
-    ],
-    "/roadmap": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/roadmap.js"
     ],
     "/spaces": [
       "static/chunks/webpack.js",
