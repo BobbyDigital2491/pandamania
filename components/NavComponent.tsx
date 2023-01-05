@@ -17,12 +17,12 @@ const navData = [
     href: "/mingo",
   },
   {
-    name: "Mutants",
-    href: "/mutants",
+    name: "Panda Spaces",
+    href: "/spaces",
   },
   {
-    name: "Team",
-    href: "/team",
+    name: "PMX",
+    href: "/pmx",
   },
   
 ];

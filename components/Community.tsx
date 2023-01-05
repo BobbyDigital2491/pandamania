@@ -38,7 +38,7 @@ export default function Community() {
         <img src="Ellipse18.svg" className="relative " />
       </div>
       <div className="flex flex-col container mx-auto">
-        <h1 className="text-5xl sm:text-[80px] flex flex-col align-middle ">
+        <h1 className="text-5xl sm:text-[80px] font-bold">
           Community <span>Engagement</span>{" "}
         </h1>
         <div className="flex flex-wrap   justify-center  items-center">

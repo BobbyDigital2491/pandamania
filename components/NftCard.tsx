@@ -13,7 +13,7 @@ export const NftCard = ({ image }: Props) => {
         />
       </div>
       <div className="px-5 py-3 sm:py-0  sm:-mt-4">
-        <h1 className="text-[30px] font-bold font-mono">Community Managers</h1>
+        <h1 className="text-[30px] font-bold font-mono">Frumpy Onion</h1>
         <div className="flex justify-between w-full mb-4 mt-2 px-3">
           <div className="flex items-center  text-xl">
           </div>
@@ -35,6 +35,7 @@ export const NftCardWithButton = ({ image }: Props) => {
             
            
           </div>
+          
           <h1 className="text-xl font-mono"> </h1>
         </div>
        

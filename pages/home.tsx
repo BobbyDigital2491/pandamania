@@ -6,6 +6,7 @@ import Footer from "../components/Footer";
 import Hero from "../components/Hero";
 import MarketPlace from "../components/MarketPlace";
 import NavComponent from "../components/NavComponent";
+import SEO from "../components/Seo";
 
 const NftCard = () => {
   return (
@@ -74,14 +75,16 @@ export default function index() {
           <img src="Group47.svg" className="relative top-[20rem]" />
         </div>
       </div>
-
+      <SEO title={"Pandamania"} description={"Welcome to Pandamania"} image={"/panda3.png"} url={""} />
+      
       <NavComponent />
       <Hero />
+      
       
       <MarketPlace />
       <Community />
       <Discover />
-      <h2 className="text-align: center"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winning Bid for Golden Collection: 58,000 HBAR </i></h2>
+      <h1 className="text-5xl font-bold leading-none text-center">Winning Bid for Golden Collection: 58,000 HBAR</h1>
       <Footer />
     </>
   );

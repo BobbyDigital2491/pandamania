@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 import Like from "../components/Like";
 import MarketPlace from "../components/MarketPlace";
 import NavComponent from "../components/NavComponent";
-
+import SEO from "../components/Seo";
 
 const NftCard = () => {
   return (
@@ -75,10 +75,94 @@ export default function about() {
           <img src="Group47.svg" className="relative top-[20rem]" />
         </div>
       </div>
+      <SEO title={"Pandamania"} description={"Welcome to Pandamania"} image={"/panda3.png"} url={""} />
 
       <NavComponent />
+      <section className="align-middle">
+      <img src="map.jpg" className="center" width={50} height={50} />
+      <br/>
+      <h1 className="text-5xl font-bold leading-none text-center">Roadmap</h1>
+
+      <br/>
+		      <p className="pt-2 pb-8 text-xl font-medium text-center"> Welcome to Pandamania! We are a project dedicated to creating and distributing unique, one-of-a-kind NFTs. Our team is made up of creators, collectors, and enthusiasts who are passionate about bringing the world of NFTs to a wider audience.
+<br/>
+In 2023, we plan to expand our collection of Pandamania NFTs to include a wide range of styles and themes. We will also be hosting regular Pandamania Spaces, in our released real-time chat. Where our community can have the chance to come together and enjoy ourselves in a safe haven. It will also be available to projects within the ecosystem upon request. 
+<br/>
+In addition, we will also collaborate with talented artists from around the world to bring you even more unique panda NFTs, bringing forth Pandamania X (PMX). This collection and the transition to it will be the main focus of Q1 2023. 
+<br/>
+We are always looking for ways to improve and enhance our platform, and this year we plan to implement new business ideas for the longevity of the project. Creating a strong source of cash flow that doesn't require mints and secondary sales, although, they are encouraged as well.
+<br/><br/>
+We can't wait to see where Pandamania goes in this year, and we hope you'll join us on this exciting journey!
+              
+              <br/>
+              <br/>
+              <br/><br/>
+              Q4 2021 - (ALL ACCOMPLISHED)✅
+              <br/>
+              Q1 2022 - (ALL ACCOMPLISHED)✅
+              <br/>
+              Q2 2022 - (ALL ACCOMPLISHED)✅
+              <br/>
+              Q3 2022 - (ALL ACCOMPLISHED)✅
+              <br/>
+              Q4 2022 - (ALL ACCOMPLISHED)✅
+              <br/><br/>
+              Q3 2022
+              <br/>
+              - Rebranding ✅
+              <br/>
+              - Staking and MNGO airdrops ✅
+              <br/>
+              - Panda Syndicates relaunch ✅
+              <br/>
+              - Hashmingos relaunch ✅
+              <br/>
+              - Lady Mingos claim ✅
+              <br/>
+              - $MNGO Wheel reconstruction into $MNGO Bust or Miss ✅
+              <br/>
+              - Hashmingos Burn to Enter Raffles ✅
+              <br/>
+              - $MNGO Discord Marketplace ✅
+              <br/>
+              - $MNGO Saucer Swap Listing ✅
+              <br/>
+              - Launch Mutant Pandas ✅
+              <br/><br/>
+              Q4 2022
+              <br/>
+              - HSUITE bonus staking rewards release ✅
+              <br/>
+              - 30 Custom Elite Mutant Pandas released ✅
+              <br/>
+              - Lock all $MNGO staking rewards services for a year ✅
+              <br/>
+              - Business collaboration with CS Transportation LLC✅
+              <br/>
+              - Trucking Plan Reveal ✅
+              <br/>
+              - Project hodlers benefits from Web 2 business reveal ✅
+              <br/>
+              - IRL Christmas toy giveaway✅
+              <br/><br/>
+              Q1 2023
+              <br/>
+              - Pandamania Spaces (RTC video conference)✅
+              <br/>
+              - 3rd $MNGO bust or miss event
+              <br/>
+              - Sharpen already established utilities
+              <br/>
+              - Introduction to Pandamania X
+              <br/>
+              - $MNGO Token Halving
+              <br/>
+              - Transition over to Pandamania X
+              </p>
+              
+              
+              </section>
       
-      <Like/>
       
       <Footer />
     </>

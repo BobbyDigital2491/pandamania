@@ -1,7 +1,7 @@
 import React from "react";
 import AboutSection from "../components/AboutSection";
 import Utility from "../components/Utility";
-
+import SEO from "../components/Seo";
 import Footer from "../components/Footer";
 import Go from "../components/Go";
 import Mark from "../components/Mark";
@@ -74,12 +74,13 @@ export default function index() {
           <img src="Group47.svg" className="relative top-[20rem]" />
         </div>
       </div>
+      <SEO title={"Pandamania"} description={"Welcome to Pandamania"} image={"/panda3.png"} url={""} />
 
       <NavComponent />
       <Go />
       
       <Mark />
-      <Utility />
+      
       
       <Footer />
     </>

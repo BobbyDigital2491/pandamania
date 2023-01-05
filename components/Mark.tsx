@@ -29,26 +29,50 @@ export default function MarketPlace() {
               </div>
             </div>
             <div className="max-w-2xl my-8 space-y-4  xl:col-span-2 text-left">
+              
+            
               <h2 className="text-5xl sm:text-[80px] font-bold">
-               $MNGO Staking Rewards
+               $MNGO Staking Rewards & Halving
               </h2>
               <p className="">
-               We have partnered up with HbarSUITE to provide staking to our holders. Their are a team of developers that continues to bring value and 
-              tools into Hedera’s ecosystem. They have set up a non custodial form of staking for our holders and rewards are issued weekly on 
-              Sunday evening.
+              On January 15th, 2023 $MNGO halving process goes into effect.
+               This will help reduce the amount of $MNGO that is being distributed weekly. 
+               Also decreases the selling pressure our token faces on Saucerswap, upholding its 
+               value longer. In Q2 we will start to gradually buy back $MNGO, as we reach the 
+               targeted distribution amount. 
+                <br/><br/>
+              Notable Changes:
                 <br/>
-              $MNGO staking rates:
                 <br/>
+              <ul>
+                <li>Jan 15th, 2023</li> 
+              <li>- Hashmingos 20 MNGO weekly into 10 MNGO weekly</li>
+              <li>- Lady Mingos 70 MNGO weekly into 35 MNGO weekly</li>
+              <li>- Panda Syndicates 60 MNGO weekly into 30 MNGO weekly</li>
+              <li>- Mutant Panda Pandas 77 MNGO weekly into 50 MNGO weekly (multiplers)</li>
+                </ul>
                 <br/>
-              <ul> 
-              <li> - Hashmingos 20 $MNGO/ Weekly </li>
-              <li> - Pandamanians 60 $MNGO/ Weekly </li>
-              <li> - Lady Mingos 70 $MNGO/ Weekly </li>
+              <ul>
+                <li>Feb 19th, 2023</li> 
+              <li>- Hashmingos 10 MNGO weekly into 5 MNGO weekly</li>
+              <li>- Lady Mingos 35 MNGO weekly into 20 MNGO weekly</li>
+              <li>- Panda Syndicates 30 MNGO weekly into final 20 MNGO weekly</li>
+              <li>- Mutant Panda 50 MNGO weekly into final 40 MNGO weekly (multipliers)</li>
+                </ul>
+                <br/>
+              <ul>
+                <li>March 19th, 2023 - Final Rates</li> 
+              <li>- Hashmingos 5 MNGO weekly into final 3 MNGO weekly</li>
+              <li>- Lady Mingos 20 MNGO weekly into final 10 MNGO weekly</li>
+              <li>- Panda Syndicates final 20 MNGO weekly</li>
+              <li>- Mutant Panda final 40 MNGO weekly (multipliers)</li>
                 </ul>
               <br/>
-              As the project is expands we will we offer $MNGO into partnering projects community as well helping with the growth of $MNGO and partnering
-              projects.
+              Note: Hashmingos and Lady Mingos will reach a lower staking rate than others as 
+              they are being burned for Pandamania X and used as an incentive for the burn. 
               </p>
+              <img src="mingo.png" width={400} height={400}/>
+
             </div>
           </div>
         </div>
