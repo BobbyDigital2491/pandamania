@@ -16,10 +16,10 @@ export default function Gang() {
 		<p className="pt-2 pb-8 text-xl font-medium text-center">Real time video chat conference built for Pandamania
               <br/>
               <br/>
-              <a href="https://web-3-factory.vercel.app/preview/638cf929ea4ced3e8758b790/host"><button className="my-2 mr-3 h-[50px] w-[200px] rounded-xl bg-[#ff00dd] text-xl text-black sm:h-[62px] sm:w-[250px]">
+              <a href="https://panda-spaces.vercel.app/preview/63b77e80ae90a28eb166791b/host"><button className="my-2 mr-3 h-[50px] w-[200px] rounded-xl bg-[#ff00dd] text-xl text-black sm:h-[62px] sm:w-[250px]">
               Join as Host<br/> Room 1
             </button></a>
-            <a href="https://web-3-factory.vercel.app/preview/638cf929ea4ced3e8758b790/guest"><button className="my-2 mx-3 h-[50px] w-[200px] rounded-xl bg-[#00d9ff] text-xl text-[#0b020a] sm:h-[62px] sm:w-[250px]">
+            <a href="https://panda-spaces.vercel.app/preview/63b77e80ae90a28eb166791b/guest"><button className="my-2 mx-3 h-[50px] w-[200px] rounded-xl bg-[#00d9ff] text-xl text-[#0b020a] sm:h-[62px] sm:w-[250px]">
               Join as Guest<br/> Room 1
             </button></a>
             <br/>
