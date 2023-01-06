@@ -76,13 +76,15 @@ export default function index() {
         </div>
       </div>
       <SEO title={"Pandamania"} description={"Welcome to Pandamania"} image={"/panda3.png"} url={""} />
+      
       <NavComponent />
       <Hero />
+      
       
       <MarketPlace />
       <Community />
       <Discover />
-      <h2 className="text-align: center"><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winning Bid for Golden Collection: 58,000 HBAR </i></h2>
+      <h1 className="text-5xl font-bold leading-none text-center">Winning Bid for Golden Collection: 58,000 HBAR</h1>
       <Footer />
     </>
   );
