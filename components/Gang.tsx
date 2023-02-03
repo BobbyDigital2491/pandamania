@@ -33,12 +33,7 @@ export default function Gang() {
                 Pandamania X Distribution
               </a>
 		</p>
-		<a
-                href="https://docs.google.com/spreadsheets/d/13I4lu9UeU1SbE7wWT7c9xzqnXKV2VCIRBQpA7ZU4-bA/edit#gid=0"
-                className="text-white hover:text-indigo-500 active:text-indigo-600 transition duration-100"
-              >
-                Pandamania X Distribution
-              </a>
+		
 		<br/>
 		<iframe className="w-full aspect-video ..." src="/panda.mp4" width="300" height="300"></iframe>	
               <br/>
