@@ -28,7 +28,7 @@ export default function Gang() {
 			<br/><br/>
 			<a
                 href="https://docs.google.com/spreadsheets/d/13I4lu9UeU1SbE7wWT7c9xzqnXKV2VCIRBQpA7ZU4-bA/edit#gid=0"
-                className="text-white hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+                className="text-grey-300 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
               >
                 Pandamania X Distribution
               </a>
