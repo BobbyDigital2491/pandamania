@@ -72,7 +72,9 @@ export default function MarketPlace() {
               they are being burned for Pandamania X and used as an incentive for the burn. 
               </p>
               <img src="mingo.png" width={400} height={400}/>
-              <img src="chart.png" className="relative top-[20rem]" />
+              <div className="align-center">
+                <img src="chart.png" className="relative top-[20rem]" />
+              </div>
             </div>
           </div>
         </div>
