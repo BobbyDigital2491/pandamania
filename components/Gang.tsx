@@ -23,6 +23,11 @@ export default function Gang() {
 		<li>Diamond, Celestial Tunnel, and Money Rug trait Pandas get 1 free claim of Mundane or Samurai Panda.</li>
 		<li>Roles that receive PMX Mutant Airdrop: Elite Mutant (for each 10 held), Elite Panda (1).</li>
 		<br/>
+		<p className="pt-2 pb-8 text-xl font-medium text-center">
+		For more details on the full distribution of Pandamania X, click the following link.
+		</p>
+		<a href="https://docs.google.com/spreadsheets/d/13I4lu9UeU1SbE7wWT7c9xzqnXKV2VCIRBQpA7ZU4-bA/edit#gid=0" alt="Docs"> Pandamania X Distribution</a>
+		<br/>
 		<iframe className="w-full aspect-video ..." src="/panda.mp4" width="300" height="300"></iframe>	
               <br/>
               <br/>
