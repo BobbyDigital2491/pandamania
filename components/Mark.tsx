@@ -73,6 +73,7 @@ export default function MarketPlace() {
               </p>
               <img src="mingo.png" width={400} height={400}/>
             </div>
+            <img src="chart.png" className="relative top-[20rem]" />
           </div>
         </div>
       </section>
