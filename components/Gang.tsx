@@ -28,6 +28,7 @@ export default function Gang() {
               <br/>
               </p>
       </div>
+	    <iframe className="w-full aspect-video ..." src="/panda.mp4"></iframe>	
     </section>
 
 
