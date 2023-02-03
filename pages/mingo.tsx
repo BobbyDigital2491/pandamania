@@ -81,7 +81,7 @@ export default function index() {
       
       <Mark />
       
-                <img src="chart.png" width="300" height="300" />
+                <img src="chart.png" width="300" height="300" className="align-center" />
               
       
       <Footer />
