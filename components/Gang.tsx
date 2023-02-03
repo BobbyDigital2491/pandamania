@@ -11,10 +11,15 @@ export default function Gang() {
   <img src="22.png" width="900" height="400" className="align-center"/>
   <h1 className="text-5xl font-bold leading-none text-center">Coming Soon</h1>
 
-		<p className="pt-2 pb-8 text-xl font-medium text-center">
-    The art for Pandamania X (PMX) is completed. This is a 999 supply collection, with multi-art 
-    styles (type): Samurai (777) and Mutant (222). Pandamania X (Samurai) main use will be to 
-    consolidate some of our collections ( burn Hashmingos, Lady Mingos) ; and the 222 Pandamania X (Mutants) will be issued for free 'w/o burn' to 10+ Mutant holders (Elite Mutant)  will receive 1 for every 10 Mutants. Elite Pandas will receive 1 per Elite Panda held. There are other ways as well, but those are only guaranteed ways. Pandamania X next goal is to make it easier to distribute IRL business or Web 3 rewards. When IRL business becomes profitable, HBAR will be issued out through PMX.  A percentage will be placed into MNGO to help increase its value as well. A lot more details are to be released on this, the team is trying to iron out the final details. 
+	<p className="pt-2 pb-8 text-xl font-medium text-center">
+    	Change has come to Pandamania like never seen before. Some pandas are adapting to the furnace around them. A lot have become Samurais in the fight to survive. Few were infected by failed science experiments and are now known as the elite class. Welcome to change and welcome to Pandamania X!
+	This is a 1600 supply collection, with multi-art styles (type): Samurai (800), Mundane (600), and Mutant (200). Pandamania X main goal is to consolidate 3 of our collections into 1 collection. 
+	<br/>
+	- Burn 6000 Hashmingos into 600 PMX Samurais
+	- Burn 500 Lady Mingos into 165 PMX Samurais
+	- Swap 1800 Panda Syndicates into 450 PMX Mundanes
+	- Diamond, Celestial Tunnel, and Money Rug trait Pandas get 1 free claim of Mundane or Samurai Panda.
+	- Roles that receive PMX Mutant Airdrop: Elite Mutant (for each 10 held), Elite Panda (1).  
               <br/>
               <br/>
               </p>
