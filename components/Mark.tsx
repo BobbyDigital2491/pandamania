@@ -71,7 +71,7 @@ export default function MarketPlace() {
               Note: Hashmingos and Lady Mingos will reach a lower staking rate than others as 
               they are being burned for Pandamania X and used as an incentive for the burn. 
               </p>
-              <img src="chart.png" width={400} height={400}/>
+              <img src="chart.png" width={800} height={800}/>
               
             </div>
           </div>
