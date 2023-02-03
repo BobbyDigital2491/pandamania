@@ -80,9 +80,9 @@ export default function index() {
       <Go />
       
       <Mark />
-      <div className="align-center">
+      
                 <img src="chart.png" className="relative top-[20rem]" />
-              </div>
+              
       
       <Footer />
     </>
