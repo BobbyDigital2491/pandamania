@@ -80,7 +80,7 @@ export default function index() {
       <Go />
       
       <Mark />
-      
+      <img src="logo.png" className="relative top-[20rem]" />
       
       <Footer />
     </>
