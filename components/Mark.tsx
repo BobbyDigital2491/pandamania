@@ -56,23 +56,22 @@ export default function MarketPlace() {
                 <li>Feb 19th, 2023</li> 
               <li>- Hashmingos 10 MNGO weekly into 5 MNGO weekly</li>
               <li>- Lady Mingos 35 MNGO weekly into 20 MNGO weekly</li>
-              <li>- Panda Syndicates 30 MNGO weekly into final 20 MNGO weekly</li>
-              <li>- Mutant Panda 50 MNGO weekly into final 40 MNGO weekly (multipliers)</li>
+              <li>- Panda Syndicates 30 MNGO weekly into 20 MNGO weekly</li>
+              <li>- Mutant Panda 50 MNGO weekly into 40 MNGO weekly (multipliers)</li>
                 </ul>
                 <br/>
               <ul>
                 <li>March 19th, 2023 - Final Rates</li> 
-              <li>- Hashmingos 5 MNGO weekly into final 3 MNGO weekly</li>
-              <li>- Lady Mingos 20 MNGO weekly into final 10 MNGO weekly</li>
-              <li>- Panda Syndicates final 20 MNGO weekly</li>
-              <li>- Mutant Panda final 40 MNGO weekly (multipliers)</li>
+              <li>- Hashmingos 5 MNGO weekly into final 0 MNGO weekly</li>
+              <li>- Lady Mingos 20 MNGO weekly into final 0 MNGO weekly</li>
+              <li>- Panda Syndicates final 10 MNGO weekly</li>
+              <li>- Mutant Panda final 30 MNGO weekly (multipliers)</li>
                 </ul>
               <br/>
               Note: Hashmingos and Lady Mingos will reach a lower staking rate than others as 
               they are being burned for Pandamania X and used as an incentive for the burn. 
               </p>
               <img src="mingo.png" width={400} height={400}/>
-
             </div>
           </div>
         </div>
