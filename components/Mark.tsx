@@ -68,8 +68,8 @@ export default function MarketPlace() {
               <li>- Mutant Panda final 30 MNGO weekly (multipliers)</li>
                 </ul>
               <br/>
-              Note: Hashmingos and Lady Mingos will reach a lower staking rate than others as 
-              they are being burned for Pandamania X and used as an incentive for the burn. 
+              Note: With the new staking rewards plan we will reduce $MNGO distribrution by over 250k $MNGO weekly, 
+              from 400k plus to under 150k $MNGO given out weekly.
               </p>
               <img src="chart.png" width={800} height={800}/>
               
