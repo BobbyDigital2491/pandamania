@@ -26,7 +26,12 @@ export default function Gang() {
 		<p className="pt-2 pb-8 text-xl font-medium text-center">
 		For more details on the full distribution of Pandamania X, click the following link.
 		</p>
-		<a href="https://docs.google.com/spreadsheets/d/13I4lu9UeU1SbE7wWT7c9xzqnXKV2VCIRBQpA7ZU4-bA/edit#gid=0" alt="Docs"> Pandamania X Distribution</a>
+		<a
+                href="https://docs.google.com/spreadsheets/d/13I4lu9UeU1SbE7wWT7c9xzqnXKV2VCIRBQpA7ZU4-bA/edit#gid=0"
+                className="text-gray-500 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
+              >
+                Pandamania Twitter
+              </a>
 		<br/>
 		<iframe className="w-full aspect-video ..." src="/panda.mp4" width="300" height="300"></iframe>	
               <br/>
