@@ -16,7 +16,7 @@ export default function Gang() {
 	A lot have become Samurais in the fight to survive. Few were infected by failed science experiments and are now known as the elite class. 
 	Welcome to change and welcome to Pandamania X! This is a 1600 supply collection, with multi-art styles (type): Samurai (800), Mundane (600),
 	and Mutant (200). Pandamania X main goal is to consolidate 3 of our collections into 1 collection. 
-	<br/>
+	<br/><br/>
 		<li> - Burn 6000 Hashmingos into 600 PMX Samurais</li>
 		<li> - Burn 500 Lady Mingos into 165 PMX Samurais</li>
 		<li> - Swap 1800 Panda Syndicates into 450 PMX Mundanes</li>
