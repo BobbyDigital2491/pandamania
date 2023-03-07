@@ -48,6 +48,9 @@ export default function SEO({ title, description, image,url }: Props) {
       <meta property="twitter:image" content={image} />
       <meta name="robots" content="Index" />
       <link rel="manifest" href="/manifest.json" />
+      <link rel="apple-touch-icon" sizes="180x180" href="/panda3.png" />
+      <link rel="icon" type="image/png" sizes="32x32" href="/panda3.png" />
+      <link rel="icon" type="image/png" sizes="16x16" href="/panda3.png" />
 
 
     </Head>
