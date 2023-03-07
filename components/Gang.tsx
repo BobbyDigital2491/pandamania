@@ -23,7 +23,9 @@ export default function Gang() {
 			something new. A new journey that is exciting, fun and introduces even better hodler rewards.
 			PMX Gaming is the new focus for Pandamania! Please check out our execution plan to learn more.
 			<br/><br/>
+			<p className="pt-2 pb-8 text-xl font-medium text-center underline underline-offset-8">
 			Click The Following Link For More Information
+			</p>
 			<br/>
 			<a href="https://docs.google.com/presentation/d/1L-lfoBEI4g52WdG1JquwUlSPTV0WKs9L02uwxyDei7k/edit?usp=sharing"
 		   className="text-xl leading-none text-center hover:bg-purple-700 ">
