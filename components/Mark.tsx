@@ -71,9 +71,8 @@ export default function MarketPlace() {
               Note: With the new staking rewards plan we will reduce $MNGO distribrution by over 250k $MNGO weekly, 
               from 400k plus to under 150k $MNGO given out weekly.
               </p>
-              <img src="chart.png" width={800} height={800}/>
-              
             </div>
+            <img className="h-auto max-w-full mx-auto" src="/Final.png" alt="Final Staking Rewards"/>
           </div>
         </div>
       </section>
