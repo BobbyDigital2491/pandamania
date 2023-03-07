@@ -38,6 +38,10 @@ export default function Gang() {
 			the burning process. 
 			<br/><br/>
 			</p>
+		<p className=" text-xl font-medium text-center underline underline-offset-8">
+			Please check out our PMX Collection and Point Release System
+			</p>
+	
 		
 	   		 <br/><br/>
 	    </div>
