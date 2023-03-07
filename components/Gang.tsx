@@ -12,35 +12,8 @@ export default function Gang() {
   <h1 className="text-5xl font-bold leading-none text-center">Change is here!!!</h1>
 
 	<p className="pt-2 pb-8 text-xl font-medium text-center">
-    	Change has come to Pandamania like never seen before. Some pandas are adapting to the furnace around them.
-	A lot have become Samurais in the fight to survive. Few were infected by failed science experiments and are now known as the elite class. 
-	Welcome to change and welcome to Pandamania X! This is a 1600 supply collection, with multi-art styles (type): Samurai (800), Mundane (600),
-	and Mutant (200). Pandamania X main goal is to consolidate 3 of our collections into 1 collection. 
-	<br/><br/>
-		<li>Burn 6000 Hashmingos into 600 PMX Samurais</li>
-		<li>Burn 500 Lady Mingos into 165 PMX Samurais</li>
-		<li>Swap 1800 Panda Syndicates into 450 PMX Mundanes</li>
-		<li>Diamond, Celestial Tunnel, and Money Rug trait Pandas get 1 free claim of Mundane or Samurai Panda.</li>
-		<li>Roles that receive PMX Mutant Airdrop: Elite Mutant (for each 10 held), Elite Panda (1).</li>
-		
-		<br/>
-		
-		<p className="pt-2 pb-8 text-xl font-medium text-center">
-		For more details on the full distribution of Pandamania X, click the following link.
-		<br/><br/>
-		<a
-                href="https://docs.google.com/spreadsheets/d/13I4lu9UeU1SbE7wWT7c9xzqnXKV2VCIRBQpA7ZU4-bA/edit#gid=0"
-                className="text-grey-300 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
-              	>
-                Pandamania X Distribution
-              	</a>
+    	 
 		</p>
-		
-		<br/>
-			
-              <br/>
-              <br/>
-              </p>
 	    
 	    </div>
     </section>
