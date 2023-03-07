@@ -9,10 +9,6 @@ const navData = [
     href: "/roadmap",
   },
   {
-    name: "Whitepaper",
-    href: "https://panda-six-flame.vercel.app/",
-  },
-  {
     name: "$MNGO",
     href: "/mingo",
   },
@@ -21,7 +17,7 @@ const navData = [
     href: "/spaces",
   },
   {
-    name: "PMX",
+    name: "PMX Gaming",
     href: "/pmx",
   },
   
