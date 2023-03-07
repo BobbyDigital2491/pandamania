@@ -40,13 +40,12 @@ export default function Gang() {
 			<p className=" text-xl font-medium text-center underline underline-offset-8">
 			Please check out our PMX Collection and Point Release System
 			</p>
-			<a href="https://docs.google.com/presentation/d/1PJ29OPVj4F-QfMa5BIXRzfTsRKntNkm6EakjbTao_Ls/edit?usp=sharing"
+			
+			</p>
+		<a href="https://docs.google.com/presentation/d/1PJ29OPVj4F-QfMa5BIXRzfTsRKntNkm6EakjbTao_Ls/edit?usp=sharing"
 		   className="text-xl leading-none text-center hover:bg-purple-700 ">
 			PMX Collection and Point Release System
 			</a>
-			
-		</p>
-		
 	   		 <br/><br/>
 	    </div>
 	   
