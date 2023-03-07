@@ -24,7 +24,7 @@ export default function Gang() {
 			PMX Gaming is the new focus for Pandamania! Please check out our execution plan to learn more.
 		</p>
 		<a href="https://docs.google.com/presentation/d/1L-lfoBEI4g52WdG1JquwUlSPTV0WKs9L02uwxyDei7k/edit?usp=sharing"
-		   className="text-3xl font-bold leading-none text-center">
+		   className="text-xl leading-none text-center">
 			PMX Gaming Execution Plan
 		</a>
 	    <br/><br/>
