@@ -35,7 +35,7 @@ export default function Gang() {
 		</p>
 		
 		<br/>
-		<iframe className="w-full aspect-video ..." src="/panda.mp4" width="300" height="300"></iframe>	
+			
               <br/>
               <br/>
               </p>
