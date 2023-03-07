@@ -22,16 +22,18 @@ export default function Gang() {
 		<li>Swap 1800 Panda Syndicates into 450 PMX Mundanes</li>
 		<li>Diamond, Celestial Tunnel, and Money Rug trait Pandas get 1 free claim of Mundane or Samurai Panda.</li>
 		<li>Roles that receive PMX Mutant Airdrop: Elite Mutant (for each 10 held), Elite Panda (1).</li>
+		
 		<br/>
+		
 		<p className="pt-2 pb-8 text-xl font-medium text-center">
 		For more details on the full distribution of Pandamania X, click the following link.
-			<br/><br/>
-			<a
+		<br/><br/>
+		<a
                 href="https://docs.google.com/spreadsheets/d/13I4lu9UeU1SbE7wWT7c9xzqnXKV2VCIRBQpA7ZU4-bA/edit#gid=0"
                 className="text-grey-300 hover:text-indigo-500 active:text-indigo-600 transition duration-100"
-              >
+              	>
                 Pandamania X Distribution
-              </a>
+              	</a>
 		</p>
 		
 		<br/>
@@ -39,6 +41,7 @@ export default function Gang() {
               <br/>
               <br/>
               </p>
+	    
 	    </div>
     </section>
 
