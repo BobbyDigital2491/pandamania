@@ -25,15 +25,14 @@ export default function Gang() {
 			<br/><br/>
 			<p className="pt-2 pb-8 text-xl font-medium text-center underline underline-offset-8">
 			Click The Following Link For More Information
-			</p>
-			<br/>
 			<a href="https://docs.google.com/presentation/d/1L-lfoBEI4g52WdG1JquwUlSPTV0WKs9L02uwxyDei7k/edit?usp=sharing"
 		   className="text-xl leading-none text-center hover:bg-purple-700 ">
 			PMX Gaming Execution Plan
-		</a>
-		</p>
+			</a>
+			</p>
+			</p>
 		
-	    <br/><br/>
+	   		 <br/><br/>
 	    </div>
 	   
     </section>
