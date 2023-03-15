@@ -10,7 +10,7 @@ export default function Gang() {
   
   <img src="22.png" width="900" height="400" className="align-center"/>
   
-<h1 className="mb-4 text-4xl font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-white">Change is coming to Pandamania</h1>
+<h1 className="mb-4 text-4xl text-center font-extrabold leading-none tracking-tight text-white md:text-5xl lg:text-6xl dark:text-white">Change is coming to Pandamania</h1>
 <p className="mb-6 text-lg font-normal text-white lg:text-xl sm:px-16 xl:px-48 dark:text-white">
 	Something is happening within Pandamania. Things seem to be evolving and its world turned 
 	into survival of the fittest. No one can say whether this change is good or bad only one thing is for certain.
